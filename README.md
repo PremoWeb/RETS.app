@@ -20,7 +20,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 While this software is open source and free to use, professional setup and customization services are available:
 
 - Rate: $125/hour
-- Provider: Nick Maietta <support@premoweb.com> or leave a voicemail at +1-888-MAIETTA
+- Provider: Nick Maietta <nick@rets.app> or call +1-855-624-3882
 - Billing: PremoWeb LLC
 - Payment: Upfront payment required for estimated time. Quotes are free.
 
